@@ -1,0 +1,6 @@
+[submodule "LocalChatVRM"]
+	path = LocalChatVRM
+	url = https://github.com/nyosegawa/LocalChatVRM.git
+[submodule "local-simple-realtime-api"]
+	path = local-simple-realtime-api
+	url = https://github.com/nyosegawa/local-simple-realtime-api.git
